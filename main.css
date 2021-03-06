@@ -1,0 +1,6 @@
+.imageList ul {
+    list-style-image: url('chocolate-chip-cookieNew.jpg');
+    margin-left: 300px;
+    width: 100px;
+    height: 100px;;
+}
